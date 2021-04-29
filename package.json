@@ -1,6 +1,6 @@
 {
   "name": "apollo-mongoose-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apollo GraphQL plugin to add Mongodb query information on the extensions node.",
   "main": "lib/index.js",
   "types": "lib",
